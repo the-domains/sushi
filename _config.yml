@@ -1,0 +1,28 @@
+name: sushi
+favicon: null
+layout_spectrum: 0.8397537339478731
+typography_spectrum: 0.8976504828315228
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8837365540675819
+  lightness: 0.6125303320586681
+  saturation: 0.7934881378896534
+  rhythmicContrast: 0.5687656085938215
+purpose: []
